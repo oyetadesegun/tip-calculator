@@ -10,7 +10,7 @@ This is a simple tip calculator application built using HTML, CSS and JavaScript
 
 ## Demo
 
-You can view a live demo of this application [here](https://yourdemo.com).
+You can view a live demo of this application [here](https://oyetadesegun.github.io/tip-calculator/).
 
 ## Features
 
